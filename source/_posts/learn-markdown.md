@@ -7,7 +7,6 @@ date: 2018-09-16
 
 > 博客使用Markdown，记录一下基本语法的使用。
 
-<!--more-->
 
 # APPEARANCE
 
@@ -245,7 +244,8 @@ A<sup>2</sup> + B<sup>2</sup> = C<sup>2</sup>
 ```
 
 
-    ```html
+```html
+    ```html 
     <!DOCTYPE html>
     <html>
         <head>
@@ -256,7 +256,8 @@ A<sup>2</sup> + B<sup>2</sup> = C<sup>2</sup>
             <h1>Hello world!</h1>
         </body>
     </html>
-    ```
+    ``` 
+```
 
 | Function name | Description                    |
 | ------------- | ------------------------------ |
@@ -268,4 +269,16 @@ A<sup>2</sup> + B<sup>2</sup> = C<sup>2</sup>
 | ------------- | ------------------------------ |
 | `help()`      | Display the help window.       |
 | `destroy()`   | **Destroy your computer!**     |
+```
+
+---
+----
+***
+*****
+
+```
+    ---
+    ----
+    ***
+    *****
 ```
