@@ -18,6 +18,12 @@ The origin source of the github pages
     hexo server
     ```
 
++ 部署
+
+    ```bash
+    hexo g -d
+    ```
+
 ## Thanks
 
 + [Hexo](https://hexo.io/)
