@@ -2,7 +2,7 @@
 layout: post
 title: Markdown语法笔记
 published: true
-date: 2018-09-16
+date: 2016-08-05
 ---
 
 > 博客使用Markdown，记录一下基本语法的使用。

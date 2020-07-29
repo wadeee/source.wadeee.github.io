@@ -2,7 +2,7 @@
 layout: post
 title: Binary Tree(二分法)
 published: true
-date: 2016-10-08
+date: 2016-07-27
 ---
 
 > 你好，树先生

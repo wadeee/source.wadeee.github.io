@@ -2,7 +2,7 @@
 layout: post
 title: Linked List(链表)
 published: true
-date: 2016-10-08
+date: 2016-09-23
 ---
 
 > 用时间换取空间

@@ -2,7 +2,7 @@
 layout: post
 title: Binary Search(二分法)
 published: true
-date: 2016-10-08
+date: 2016-07-13
 ---
 
 > 在单调中寻找，在起伏中失效
